@@ -1,5 +1,5 @@
 ## 🌿 Enhanced-Plant-Disease-Detection-using-Explainable-AI-Technique
-**Technologies:** Convolutional Neural Networks (CNN), Explainable AI (LIME), Python, Streamlit
+**Technologies:** Convolutional Neural Networks (CNN), Explainable AI (LIME), Python
 
 ### 🎯 Purpose
 I created this project to tackle a real-world agricultural challenge: the **early and accurate detection of plant diseases**. Many farmers, especially in remote or under-resourced areas, lack access to timely expert diagnosis, which often results in misdiagnosis or delayed treatments. These delays can severely impact crop yield and quality. My aim was to develop a **machine learning solution that is not only accurate but also interpretable**, enabling farmers to trust the system’s predictions and act confidently.
