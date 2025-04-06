@@ -15,7 +15,6 @@ This solution can be embedded into a mobile or web-based application where farme
 ### ✅ Outcome
 - Developed a **custom CNN model** that achieved ~98% validation accuracy on plant disease classification.
 - Successfully integrated **LIME** to provide pixel-level explanations for each prediction.
-- Designed a clean and interactive **Streamlit app** to allow real-time disease diagnosis with explainability.
 - Gained a deeper understanding of the trade-offs between **accuracy and interpretability**, making the model not just performant, but also **human-centric**.
 
 This project demonstrated how AI can go beyond predictions to foster **trust, usability, and real-world impact**—especially in critical domains like agriculture.
