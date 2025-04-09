@@ -13,7 +13,7 @@ This solution can be embedded into a mobile or web-based application where farme
 - **Deployment Readiness:** Creating an interface using Streamlit that could allow for both predictions and explanation outputs involved UI/UX planning and backend optimization. The app had to be fast, responsive, and farmer-friendly.
 
 ### ✅ Outcome
-- Developed a **custom CNN model** that achieved ~98% validation accuracy on plant disease classification.
+- Developed a **custom CNN model** that achieved ~96% validation accuracy on plant disease classification.
 - Successfully integrated **LIME** to provide pixel-level explanations for each prediction.
 - Gained a deeper understanding of the trade-offs between **accuracy and interpretability**, making the model not just performant, but also **human-centric**.
 
